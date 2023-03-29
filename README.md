@@ -4,6 +4,7 @@ In this project we will be using the disney wikepedia page which contains the en
 
 https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
 
+The following has been done in this project: -
 - Web scraping using BeautifulSoup library.
 - Cleaning data with Pandas library.
 - Testing code with Pytest to ensure proper money conversions.
