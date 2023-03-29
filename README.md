@@ -1,4 +1,8 @@
-# Disney-Data-set-creation
+# Movie-Data-set-creation
+
+In this project we will be using the disney wikepedia page which contains the entire list of all the disney movies launched till now.
+
+https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
 
 - Web scraping using BeautifulSoup library.
 - Cleaning data with Pandas library.
